@@ -7,7 +7,7 @@
   <b>👨‍💻`プログラマ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Enzo VDS</b>
+      Hey there! I'm <b>Enzo VDS</b>
   </samp>
 </div>
 
