@@ -30,7 +30,7 @@
 
 <div>
 
-Me chamo Enzo Vinicius Damião da Silva, tenho 27 anos e sou natural de São Paulo. Atualmente, Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada acadêmica, mas com uma base sólida construída ao longo dos anos. Desde pequeno, sempre tive interesse por tecnologia e programação, o que me levou a cursar Web Design e Técnico em Eletrônica. Trabalhei por cerca de cinco anos em uma lan house, onde desenvolvi habilidades práticas em manutenção de computadores, tanto em hardware quanto software, realizando desde instalações simples até diagnósticos e trocas de componentes.
+Me chamo Enzo Vinicius Damião da Silva, tenho 27 anos e sou natural de São Paulo. Atualmente, Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada acadêmica, mas com uma base sólida construída ao longo dos anos. Desde pequeno, sempre tive interesse por tecnologia e programação, o que me levou a cursar Web Design e Técnico em Eletrônica. Trabalhei por cerca de cinco anos em uma lan house, onde desenvolvi habilidades práticas em manutenção de computadores — tanto em hardware quanto software — realizando desde instalações simples até diagnósticos e trocas de componentes.
 
 Além disso, adquiri conhecimentos básicos em desenvolvimento web (HTML, CSS) e linguagem C, que me deram uma boa noção antes mesmo da faculdade. Também tive experiências com manutenção de celulares, ampliando minha visão técnica. Meu objetivo é crescer profissionalmente na área de TI, buscando oportunidades que me permitam aprender, criar soluções e, futuramente, atuar com desenvolvimento de sistemas.
   
