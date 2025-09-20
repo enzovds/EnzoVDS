@@ -15,33 +15,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ca3f16&width=900&size=30&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>About me / Sobre mim</b>
-      </samp>
-  </summary>
-  
-<br>
-
-##
-
-<br>
-
-<div>
-
-Me chamo Enzo Vinicius Damião da Silva, tenho 27 anos e sou natural de São Paulo. Atualmente, Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada acadêmica, mas com uma base sólida construída ao longo dos anos. Desde pequeno, sempre tive interesse por tecnologia e programação, o que me levou a cursar Web Design e Técnico em Eletrônica. Trabalhei por cerca de cinco anos em uma lan house, onde desenvolvi habilidades práticas em manutenção de computadores — tanto em hardware quanto software — realizando desde instalações simples até diagnósticos e trocas de componentes.
-
-Além disso, adquiri conhecimentos básicos em desenvolvimento web (HTML, CSS) e linguagem C, que me deram uma boa noção antes mesmo da faculdade. Também tive experiências com manutenção de celulares, ampliando minha visão técnica. Meu objetivo é crescer profissionalmente na área de TI, buscando oportunidades que me permitam aprender, criar soluções e, futuramente, atuar com desenvolvimento de sistemas.
-  
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 48%; margin: 0 1%;">
+    <details>
+      <summary>🇧🇷 Sobre mim</summary>
+      <div align="left">
+        <p>Me chamo Enzo Vinicius Damião da Silva, tenho 27 anos e sou natural de São Paulo. Atualmente, Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada acadêmica, mas com uma base sólida construída ao longo dos anos. Desde pequeno, sempre tive interesse por tecnologia e programação, o que me levou a cursar Web Design e Técnico em Eletrônica. Trabalhei por cerca de cinco anos em uma lan house, onde desenvolvi habilidades práticas em manutenção de computadores, tanto em hardware quanto software, realizando desde instalações simples até diagnósticos e trocas de componentes.</p>
+        <p>Além disso, adquiri conhecimentos básicos em desenvolvimento web (HTML, CSS) e linguagem C, que me deram uma boa noção antes mesmo da faculdade. Também tive experiências com manutenção de celulares, ampliando minha visão técnica. Meu objetivo é crescer profissionalmente na área de TI, buscando oportunidades que me permitam aprender, criar soluções e, futuramente, atuar com desenvolvimento de sistemas.</p>
+      </div>
+    </desdetaisl>
+  </div><div style="display: inline-block; vertical-align: top; width: 48%; margin: 0 1%;">
+    <details>
+      <summary>🇺🇸 About me</summary>
+      <div align="left">
+        <p>My name is Enzo Vinicius Damião da Silva, I am 27 years old, and I am from São Paulo. Currently, I am a student of Analysis and Systems Development, just beginning my academic journey, but with a solid foundation built over the years. Since I was young, I have always been interested in technology and programming, which led me to study Web Design and pursue a technical degree in Electronics. I worked for about five years in a LAN house, where I developed practical skills in computer maintenance—both hardware and software—performing everything from simple installations to diagnostics and component replacements.</p>
+        <p>Additionally, I acquired basic knowledge in web development (HTML, CSS) and the C language, which gave me a good foundation even before college. I also have experience with cell phone maintenance, which broadened my technical perspective. My goal is to grow professionally in the IT field, seeking opportunities that allow me to learn, create solutions, and, in the future, work with systems development.</p>
+      </div>
+    </details>
+  </div>
 </div>
 
-<br>
-<br>
-<br>
-
-</details>
-      
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=enzovds&show_icons=true&count_private=true&rank_icon=github&theme=codeSTACKr&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzovds&layout=compact&font=Iosevka&langs_count=16&theme=codeSTACKr"/>
