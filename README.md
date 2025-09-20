@@ -106,3 +106,13 @@ Além disso, adquiri conhecimentos básicos em desenvolvimento web (HTML, CSS) e
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=102&color=gradient&customColorList=2,7,7&reversal=true&section=footer"/>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzovds/enzovds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzovds/enzovds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enzovds/enzovds/output/pacman-contribution-graph.svg">
+</picture>
+
+###
