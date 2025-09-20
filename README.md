@@ -116,7 +116,3 @@ Além disso, adquiri conhecimentos básicos em desenvolvimento web (HTML, CSS) e
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/enzovds/enzovds/output/snake.svg" alt="Snake animation" />
-
-###
