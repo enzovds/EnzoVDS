@@ -94,12 +94,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fenzovds&s=30&c=ac3f17&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=102&color=gradient&customColorList=2,7,7&reversal=true&section=footer"/>
 
 ###
