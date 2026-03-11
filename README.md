@@ -81,7 +81,7 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-ac3f17?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:enzo.viny13@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ac3f17?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/strangerevds/?next=%2F)
+  [![Instagram](https://img.shields.io/badge/Instagram-ac3f17?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/thecara.evds/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-ac3f17?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/enzovds/)
   
 </div>
